@@ -18,6 +18,9 @@ This project is a showcase of my data analysis and visualization skills, focusin
 - Designed an intuitive dashboard layout for easy interpretation of data.
 - Implemented dynamic features to ensure the dashboard remains up-to-date and interactive.
 
+## Repository Contents:
+- Excel Dashboard: The final Excel dashboard showcasing the analyzed Adidas US sales data.
+- README: This file providing an overview of the project objectives, methodology, and key features.
 
 ## Usage:
 
